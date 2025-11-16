@@ -2,7 +2,6 @@
 <h3 align="center">Electronics • Embedded Systems • IoT • PCB Design • Hardware R&D</h3>
 
 <p align="center">
-  📱 +91 74995 65623 • 📧 ayushzade147@gmail.com<br/>
   🔗 <a href="https://linkedin.com/in/ayush-zade">LinkedIn</a> • <a href="https://github.com/RogerAyush">GitHub</a><br/>
   📍 Nagpur, India
 </p>
@@ -67,14 +66,10 @@
 
 ### 🔭 Hardware / Firmware Projects:
 
-- 🦷 **Dental Handpiece Embedded Camera System**  
-  ESP32-based micro-camera + LED system with **real-time video streaming** via webserver, custom camera-interface PCB.
 
 - 🧩 **Custom ESP32-C3 Mini Dev Board (4-Layer)**  
   Manufacturable **4-layer PCB**, **dual USB-C** for UART + native USB, designed for repeatable firmware testing.
 
-- 🧠 **Heart Disease Prediction Pipeline**  
-  Random Forest model + feature pipeline (age, BP, cholesterol, ECG, lifestyle) reaching ~**73% test accuracy**.
 
 - 🧮 **Lattice MachXO2 csBGA132 Breakout Board**  
   4-layer **FPGA breakout** with IO headers + UART for experimenting with **MachXO2**–based designs.
