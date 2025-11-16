@@ -1,72 +1,92 @@
 <h1 align="center">⚡ Ayush Zade ⚡</h1>
-<h3 align="center">Electronics and IoT Engineer | PCB Designer | Embedded Systems Enthusiast</h3>
+<h3 align="center">Electronics • Embedded Systems • IoT • PCB Design • Hardware R&D</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-ayush--zade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Email-ayushzade147@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-</p>
+<div align="center">
 
----
 
-### 💡 About Me:
 
-* [cite_start]🔭 I specialize in **IoT device development, PCB design, and firmware engineering**[cite: 5, 6, 9].
-* [cite_start]🔬 My work is focused on **R&D for Product Designing, reverse engineering, optimizing, and testing**[cite: 7].
-* [cite_start]🛠 I am proficient in using **instrumentation tools** like multimeters, oscilloscopes, and logic analyzers for testing and debugging[cite: 10].
-* [cite_start]🌱 I'm always ready to **learn new things** and have a good research background[cite: 8].
-* [cite_start]🤝 I enjoy building prototypes and making **hardware and software work together**[cite: 5].
-* [cite_start]💬 Ask me about **ESP32, STM32, 4-layer PCB Design (Altium/KiCad)**, and **IoT Web Servers**[cite: 15, 17, 21, 37, 38, 40].
+</div>
 
 ---
 
-### ⚙️ Skills & Tech Stack:
+### 🧩 What I Do
 
-#### ⚡ Embedded & Hardware
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,linux" />
-  <img src="https://img.shields.io/badge/ESP32S3-E95420?style=flat&logo=espressif&logoColor=white" alt="ESP32 Badge"/>
-  <img src="https://img.shields.io/badge/STM32-4d7a8d?style=flat&logo=stmicroelectronics&logoColor=white" alt="STM32 Badge"/>
-  <img src="https://img.shields.io/badge/Atmega-61DAFB?style=flat&logo=microchip&logoColor=white" alt="Atmega Badge"/>
-</p>
-
-#### 🎨 PCB Design & EDA Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=altium,kicad" />
-  <img src="https://img.shields.io/badge/Circuit_Design-white?style=flat&logo=circuitikz&logoColor=black" alt="Circuit Design Badge"/>
-  <img src="https://img.shields.io/badge/IPC_Standards-007ACC?style=flat&logo=altium&logoColor=white" alt="IPC Standards Badge"/>
-</p>
-
-#### 👨‍💻 Software & Programming
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github" />
-  <img src="https://img.shields.io/badge/Firmware_IDF_HAL-4d7a8d?style=flat&logo=visualstudiocode&logoColor=white" alt="Firmware IDF HAL Badge"/>
-</p>
-
-#### 📶 IoT & Data
-<p align="left">
-  <img src="https://img.shields.io/badge/I2C_SPI_UART_BLE-4d7a8d?style=flat&logo=i2c&logoColor=white" alt="Communication Protocols Badge"/>
-  <img src="https://img.shields.io/badge/Webserver_Hosting-276DC3?style=flat&logo=serverless&logoColor=white" alt="Webserver Hosting Badge"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FFB03B?style=flat&logo=scikitlearn&logoColor=black" alt="Machine Learning Badge"/>
-</p>
+- Design, prototype & optimize **IoT, embedded and electronic systems**
+- Build **custom PCBs** (4-layer, mixed signal, RF-aware routing)
+- Develop **firmware** for **bare-metal & RTOS** environments
+- Perform **debugging & reverse engineering** using lab tools
+- Integrate **sensors, actuators & communication modules**
+- Work across **hardware → firmware → data → deployment**
 
 ---
 
-### 🏆 Key Projects:
+### 🛠️ Technical Toolbox
 
-| Project | Technologies Used | Key Outcome |
-| :--- | :--- | :--- |
-| **Dental Handpiece Modification** [cite: 12] | [cite_start]ESP32, micro-camera, Custom PCB, Web Server Hosting [cite: 13, 14, 15] | [cite_start]Enabled real-time oral visuals to dentists via live video streaming[cite: 14]. |
-| [cite_start]**ESP32 C3 Dev Board** [cite: 16] | [cite_start]ESP32-C3, Altium Designer [cite: 17, 19] | [cite_start]Designed a manufacturable 4-layer board with dual USB-C (USB/UART)[cite: 17, 18]. |
-| [cite_start]**FPGA Breakout Board** [cite: 20] | [cite_start]Lattice MachXO2 (csBGA132), KiCad [cite: 21, 23] | [cite_start]Designed a manufacturable 4-layer board to access major Bank IO pins[cite: 21, 22]. |
-| [cite_start]**Heart Disease Prediction** [cite: 24] | [cite_start]Python, Random Forest Classifier [cite: 25] | [cite_start]Achieved $\approx 73\%$ accuracy on the test dataset[cite: 27]. |
+#### **Hardware Engineering**
+- PCB Design: **Altium Designer, KiCad**
+- PCB Capabilities: **4-layer**, impedance aware routing, ground plane strategy, EMI/ESD care
+- Schematic design & component selection based on power, cost & performance budgeting
+- SMD soldering, rework, bodge-fixing, breakout creation
+
+#### **Embedded & Low-Level Engineering**
+- MCUs worked with: **ESP32-S3, ESP32-C3, STM32F1, ATmega**
+- Firmware frameworks: **Arduino IDE, ESP-IDF, STM32 HAL**
+- Interfaces & protocols: **UART, I²C, SPI, PWM, ADC, BLE, Wi-Fi**
+- Bootloaders, flashing, debugging using JTAG/SWD & logic analyzers
+
+#### **IoT & Systems**
+- ESP32 **webserver hosting + streaming + control**
+- Data processing & basic ML inference integration
+- Local + cloud-ready architectures (REST / Websocket)
+
+#### **Tools, Bench & Measurement**
+- Digital Multimeter, Oscilloscope, Logic Analyzer
+- Serial monitor tools (minicom, Putty, ESPhome logs)
+- Version control: **Git & GitHub**
 
 ---
 
-### 📊 GitHub Stats:
+### 🔬 Engineering Experiences (Technical Only)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RogerAyush&show_icons=true&theme=midnight-purple&hide_rank=true" alt="Ayush Zade GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RogerAyush&theme=midnight-purple" alt="Ayush Zade GitHub Streak" />
-</p>
+#### **🦷 Dental Handpiece Embedded Camera System**
+- Designed custom PCB interfacing **ESP32 + camera module**
+- Created **real-time video streaming system** using ESP32 webserver
+- Integrated illumination system + enclosure-ready layout
+
+#### **🧩 ESP32-C3 Mini Development Board**
+- Manufactured **4-layer dev board** with dual USB-C
+- Integrated **auto-boot & programming circuit**
+- Designed for **prototyping & firmware testing repeatability**
+
+#### **🔌 FPGA Breakout (Lattice MachXO2 csBGA-132)**
+- Created **BGA-to-prototyping breakout** with signal-safe routing
+- Added **UART access + IO header mapping**
+- Designed for rapid **hardware experimentation**
+
+#### **❤️ Heart Disease Prediction (Edge ML Data Pipeline)**
+- Built **Random Forest inference pipeline**
+- Structured medical features acquisition process
+- Achieved ~73% evaluation accuracy (non-clinical experimental)
 
 ---
+
+### 🧠 Engineering Interests
+
+✔ Embedded Linux (BeagleBone, Pi CM4)  
+✔ FreeRTOS & deterministic firmware  
+✔ Low-power optimization & energy profiling  
+✔ Custom dev boards & modular system design  
+✔ Hardware security & glitching experiments  
+
+---
+
+### 📈 GitHub Profile Analytics
+
+<div align="center">
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=RogerAyush&show_icons=true&theme=tokyonight" />
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=RogerAyush&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center"><b>Always building, always testing, always improving ⚙️</b></div>
