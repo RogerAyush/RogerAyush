@@ -55,9 +55,9 @@
 
 | Project | Technologies Used | Key Outcome |
 | :--- | :--- | :--- |
-| [cite_start]**Dental Handpiece Modification** [cite: 12] | [cite_start]ESP32, Micro-camera, Custom PCB, Web Server Hosting [cite: 13, 14, 15] | [cite_start]Enabled **real-time oral visuals** for dentists via live video streaming[cite: 14]. |
-| [cite_start]**ESP32 C3 Dev Board** [cite: 16] | [cite_start]ESP32-C3, Altium Designer [cite: 17, 19] | [cite_start]Designed a manufacturable **4-layer** board with dual USB-C (USB/UART)[cite: 17, 18]. |
-| [cite_start]**FPGA Breakout Board** [cite: 20] | [cite_start]Lattice MachXO2 (csBGA132), KiCad [cite: 21, 23] | [cite_start]Designed a manufacturable **4-layer** board to access major Bank IO pins[cite: 21, 22]. |
+| **Dental Handpiece Modification** [cite: 12] | [cite_start]ESP32, micro-camera, Custom PCB, Web Server Hosting [cite: 13, 14, 15] | [cite_start]Enabled real-time oral visuals to dentists via live video streaming[cite: 14]. |
+| [cite_start]**ESP32 C3 Dev Board** [cite: 16] | [cite_start]ESP32-C3, Altium Designer [cite: 17, 19] | [cite_start]Designed a manufacturable 4-layer board with dual USB-C (USB/UART)[cite: 17, 18]. |
+| [cite_start]**FPGA Breakout Board** [cite: 20] | [cite_start]Lattice MachXO2 (csBGA132), KiCad [cite: 21, 23] | [cite_start]Designed a manufacturable 4-layer board to access major Bank IO pins[cite: 21, 22]. |
 | [cite_start]**Heart Disease Prediction** [cite: 24] | [cite_start]Python, Random Forest Classifier [cite: 25] | [cite_start]Achieved $\approx 73\%$ accuracy on the test dataset[cite: 27]. |
 
 ---
