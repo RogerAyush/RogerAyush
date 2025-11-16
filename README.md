@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ayush Zade</h1>
+<h3 align="center">Electronics Engineer | IoT Developer | Embedded & FPGA Enthusiast</h3>
 
-<!--
-**RogerAyush/RogerAyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔥 About Me
+- 🔭 I’m currently working on **Embedded Systems, FPGA Projects**
+- 🌱 I’m learning **Verilog, PCB Design, IoT, Linux**
+- 👯 I’m looking to collaborate on **Hardware + Software Projects**
+- 💬 Ask me about **ESP32, Lattice FPGAs, KiCad, Python, IoT**
+- ⚡ Fun fact: I love building real-world hardware
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Socials:
+<a href="https://www.linkedin.com/in/..."><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+
+---
+
+### 🛠️ Tech Stack:
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,linux,arduino,raspberrypi,docker" />
+
+---
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AyushZade&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AyushZade&theme=tokyonight)
